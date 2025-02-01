@@ -309,7 +309,7 @@ In this case, the string is `Hello\nworld`, which gets logged.
 ## Q. What is the output?
 
 ```javascript
-const { name: myName } = { name: "Anusha Kapadia" };
+const { name: myName } = { name: "Arun Kumar giri" };
 
 console.log(name);
 ```
