@@ -1004,7 +1004,7 @@ console.log(a, b);
 ## Q. What does this return?
 
 ```javascript
-[..."Inika "];
+[..."Arun "];
 ```
 
 <details><summary><b>Answer</b></summary>
