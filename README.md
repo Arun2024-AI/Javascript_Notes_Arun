@@ -331,7 +331,7 @@ Since we try to log `name`, a variable that is not defined, a ReferenceError get
 ## Q. What is the output?
 
 ```javascript
-const name = "Arun";
+const name = "Arun kumar";
 
 console.log(name());
 ```
