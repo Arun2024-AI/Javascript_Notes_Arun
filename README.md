@@ -424,7 +424,7 @@ console.log(x);
 
 ```javascript
 const numOne = 2;
-const numTwo = 3;
+const numTwo = 4;
 
 const res = numOne ** numTwo;
 console.log(res);
