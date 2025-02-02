@@ -1039,7 +1039,7 @@ We can unpack values from arrays or properties from objects through destructurin
 The value of `a` is now `1`, and the value of `b` is now `2`. What we actually did in the question, is:
 
 ```javascript
-[y] = [1, 2, 3, 4, 5];
+[y] = [1, 2, 3, 4, 5,6];
 ```
 
 <img src="https://i.imgur.com/NzGkMNk.png" width="200">
