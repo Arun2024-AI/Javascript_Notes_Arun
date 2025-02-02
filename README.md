@@ -261,7 +261,7 @@ The `name` variable was declared with a `const` keyword, so its deletion is not 
 ## Q. What is the output?
 
 ```javascript
-const name = "Akhil Sunder";
+const name = "Arun Kumar";
 console.log(name.padStart(13));
 console.log(name.padStart(2));
 ```
