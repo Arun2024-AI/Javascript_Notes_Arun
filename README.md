@@ -86,7 +86,7 @@ console.log(typeof a);
 ## Q. Predict the output of the following JS code?
 
 ```js
-const a = { msg: "Hi" };
+const a = { msg: "Hi I " };
 const b = a;
 b.msg = "Hello";
 
