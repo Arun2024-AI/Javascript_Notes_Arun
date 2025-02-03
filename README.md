@@ -1148,7 +1148,7 @@ foo.push(2);
   console.log(toGreet);
 })();
 ```
-
+//console.log("Arun")
 <details><summary><b>Answer</b></summary>
 
 [ 'W', 'o', 'r', 'l', 'd' ]
