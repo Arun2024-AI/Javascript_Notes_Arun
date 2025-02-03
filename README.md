@@ -851,8 +851,8 @@ var a = eval("x * y") + "<br>";
 var b = eval("2 + 2") + "<br>";
 var c = eval("x + 30") + "<br>";
 
-let result = a + b + c;
-console.log(result); 
+let res = a + b + c;
+console.log(res); 
 ```
 
 <div align="right">
