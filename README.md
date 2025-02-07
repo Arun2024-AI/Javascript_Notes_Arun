@@ -1020,7 +1020,7 @@ A string is an iterable. The spread operator maps every character of an iterable
 ## Q. What is the output?
 
 ```javascript
-const numbers = [1, 2, 3, 4, 5];
+const numbers = [1, 2, 3, 4, ];
 const [y] = numbers;
 
 console.log(y);
