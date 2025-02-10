@@ -1313,7 +1313,7 @@ foo.push(2);
 (function () {
   var animal = ["cow", "horse"];
   animal.push("cat");
-  animal.unshift("dog", "rat", "goat");
+  animal.unshift("dog", "rat");
   console.log(animal);
 })();
 ```
