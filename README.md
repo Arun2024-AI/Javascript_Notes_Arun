@@ -75,7 +75,7 @@ ReferenceError: employeeId is not defined
 ## Q. Predict the output of the following JavaScript code?
 
 ```javascript
-var a = 1.2;
+var a = 1.3;
 console.log(typeof a); 
 ```
 
