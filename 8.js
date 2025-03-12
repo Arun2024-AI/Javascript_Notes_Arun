@@ -1,15 +1,15 @@
 //objects
 
-let student={
-    "name":"",
-    "phoneNumber":"",
-    email:"",
-    roolnumber:""
-}
-const section="section"
-student["section"]=""      //creation square bracket notation 
-student.section=""         //creation using dot notation
-console.log(student)
+// let student={
+//     "name":"",
+//     "phoneNumber":"",
+//     email:"",
+//     roolnumber:""
+// }
+// const section="section"
+// student["section"]=""      //creation square bracket notation 
+// student.section=""         //creation using dot notation
+// console.log(student)
 
 
 console.log("********************************************************************************************************************")
