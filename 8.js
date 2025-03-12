@@ -14,12 +14,12 @@ console.log(student)
 
 console.log("********************************************************************************************************************")
 
-student["name"]="Arun"
-section.email="atulgiri649@gmail.com"
-student.phoneNumber=9696500410
-student.roolnumber=2401010099
-student.section="C"
-console.log(student.name+" is in section " +student["section"])
+// student["name"]="Arun"
+// section.email="atulgiri649@gmail.com"
+// student.phoneNumber=9696500410
+// student.roolnumber=2401010099
+// student.section="C"
+// console.log(student.name+" is in section " +student["section"])
 
 
 
