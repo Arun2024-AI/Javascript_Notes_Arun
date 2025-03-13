@@ -1,5 +1,5 @@
 //function of == and ===
-// console.log(1=="1");     //value wise same
+console.log(1=="1");     //value wise same
 console.log(1==="1");     //false because the data type 
 console.log(null==undefined);    // value wise same 
 console.log(null===undefined);    //false become data type
