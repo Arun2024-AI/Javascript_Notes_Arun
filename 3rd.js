@@ -16,9 +16,9 @@ console.log(a++);     //The ++ operator here is a post-increment operator
 console.log(a);
 
 // pre operator
-let b=3;
-console.log(++b)
-console.log(b)
+// let b=3;
+// console.log(++b)
+// console.log(b)
 
 
 console.log("****************************************************")
