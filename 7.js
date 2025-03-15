@@ -1,11 +1,11 @@
-// function print(num){
-//     console.log(num+1)
-//     return num
-// }
-// let arr=[1,2,3,4,5];
-// for (let val of arr){
-//     print(val);
-// }
+function print(num){
+    console.log(num+1)
+    return num
+}
+let arr=[1,2,3,4,5];
+for (let val of arr){
+    print(val);
+}
 
 
 console.log("**************************************************************")
