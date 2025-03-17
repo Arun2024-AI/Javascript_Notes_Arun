@@ -1,10 +1,10 @@
-let arr = [1,2,3,4,5,6];    //output: "123456"
+// let arr = [1,2,3,4,5,6];    //output: "123456"
 
-let str=""
-for(let val of arr){
-    str += val
-}
-console.log(str);
+// let str=""
+// for(let val of arr){
+//     str += val
+// }
+// console.log(str);
 
 
 console.log("**********************************************************")
