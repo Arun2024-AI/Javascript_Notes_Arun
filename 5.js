@@ -1,5 +1,5 @@
 function print(){
-    console.log("Hello");
+    // console.log("Hello");
 }
 
 sum(3,4)
