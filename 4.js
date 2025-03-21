@@ -10,7 +10,7 @@ if(a==1){
 
 
 //switch case
-this is used when all variable depends upon only 1 variable
+// this is used when all variable depends upon only 1 variable
 
 let a=2
 switch(a){
