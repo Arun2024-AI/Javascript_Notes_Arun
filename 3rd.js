@@ -8,7 +8,7 @@ console.log(1!="1");      //value wise same
 console.log(1!=="1");     //false because the data type
 
 
-console.log("****************************************************")
+// console.log("****************************************************")
 
 // Post operator
 let a=2;
