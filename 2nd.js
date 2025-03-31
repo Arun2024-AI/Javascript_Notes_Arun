@@ -1,8 +1,8 @@
-// //Data type in JS
-// /* There are two type of data types
-// 1.premetive(imutable))
-// 2.non premetive(mutable)*/
-// // only "object" is the data type 
+//Data type in JS
+/* There are two type of data types
+1.premetive(imutable))
+2.non premetive(mutable)*/
+// only "object" is the data type 
 
 
 
