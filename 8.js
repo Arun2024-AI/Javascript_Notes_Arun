@@ -6,10 +6,10 @@ let student={
     email:"",
     roolnumber:""
 }
-const section="section"
-student["section"]=""      //creation square bracket notation 
-student.section=""         //creation using dot notation
-console.log(student)
+// const section="section"
+// student["section"]=""      //creation square bracket notation 
+// student.section=""         //creation using dot notation
+// console.log(student)
 
 
 console.log("********************************************************************************************************************")
