@@ -1,6 +1,6 @@
-// function print(){
-//     console.log("Hello");
-// }
+function print(){
+    console.log("Hello");
+}
 
 sum(3,4)
 function sum(a,b=2){               //default value parameter
