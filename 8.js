@@ -1,4 +1,4 @@
-// objects
+objects
 
 let student={
     "name":"",
