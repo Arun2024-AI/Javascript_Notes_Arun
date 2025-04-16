@@ -1,23 +1,23 @@
-// function print(){
-//     console.log("Hello");
-// }
+function print(){
+    console.log("Hello");
+}
 
-// sum(3,4)
-// function sum(a,b=2){               //default value parameter
-//     console.log(a+b);              
-// }
-
-
-
-// const sum1 = function(a,b=2){
-//     return a+b;
-// }
+sum(3,4)
+function sum(a,b=2){               //default value parameter
+    console.log(a+b);              
+}
 
 
-// const sum =(a+b) => {
-//     return a+b
-// }
-// const sum =(a+b) => a+b;
+
+const sum1 = function(a,b=2){
+    return a+b;
+}
+
+
+const sum =(a+b) => {
+    return a+b
+}
+const sum =(a+b) => a+b;
 
 
 
