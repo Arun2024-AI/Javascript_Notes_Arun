@@ -1,4 +1,4 @@
-Java Notes Arun Kumar Giri
+Notes Arun Kumar Giri
 
 
 > *Click &#9733; if you like the project. Your contributions are heartily ♡ welcome.*
